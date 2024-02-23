@@ -1,7 +1,7 @@
 # git_cheatsheet
 
 
-#Getting Started
+## Getting Started
 ### Create a Repository
 #### Create a new local repository
 
